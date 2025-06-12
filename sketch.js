@@ -46,8 +46,8 @@ function telaIntroducao() {
   text("O que é o campo e a tecnologia", width / 2, 100);
   textSize(24);
   fill(50);
-  text("O campo na agricultura se refere a parcelas de terra não urbanizadas, A tecnologia tem revolucionado o campo, trazendo mais eficiência, produtividade e sustentabilidade para o agronegócio. Conhecida como Agricultura 4.0, essa transformação digital otimiza as operações e a tomada de decisões. Veja como a tecnologia contribui:destinadas ao uso agrícola, como o cultivo de lavouras ou a criação de animais (pastoreio). É a área rural onde se desenvolvem as atividades econômicas do setor primário, como agricultura, pecuária e silvicultura. Geralmente, o campo tem baixa densidade.", width / 100, 300);
-  text('A tecnologia tem revolucionado o campo, trazendo mais eficiência, produtividade e sustentabilidade para o agronegócio. Conhecida como Agricultura 4.0, essa transformação digital otimiza as operações e a tomada de decisões. Veja como a tecnologia contribui:', width / 2, 250);
+  text("O campo na agricultura se refere a parcelas de terra não urbanizadas, A tecnologia tem revolucionado o campo, trazendo mais eficiência, produtividade e sustentabilidade para o agronegócio. Conhecida como Agricultura 4.0, essa transformação digital otimiza as operações e a tomada de decisões. Veja como a tecnologia contribui:destinadas ao uso agrícola, como o cultivo de lavouras ou a criação de animais (pastoreio). É a área rural onde se desenvolvem as atividades econômicas do setor primário, como agricultura, pecuária e silvicultura. Geralmente, o campo tem baixa densidade.", width / 10, 300, 950);
+  text('A tecnologia tem revolucionado o campo, trazendo mais eficiência, produtividade e sustentabilidade para o agronegócio. Conhecida como Agricultura 4.0, essa transformação digital otimiza as operações e a tomada de decisões. Veja como a tecnologia contribui:', width / 10, 550, 950);
   textSize(32);
 }
 
